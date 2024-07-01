@@ -13,7 +13,8 @@ Load resulting PCAP file into the notebook. It uses SCRAPY Python library for lo
 
 The notebook captures and prints HDR histogram of two metrics:
 
-L1: Data Connector to FIX Engine output
-L2: Data Connector to TCP packet timestamp
+* L1: Data Connector to FIX Engine output
+* L2: Data Connector to TCP packet timestamp
+
 
 ![image](https://github.com/andymalakov/fix-mdg-latency/assets/1916494/6c335650-5eeb-4f13-b5ab-679805031061)
